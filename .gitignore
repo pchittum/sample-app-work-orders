@@ -7,6 +7,7 @@ results.txt
 
 deploy/*
 config/*
+debug/*
 
 coverage.html
 

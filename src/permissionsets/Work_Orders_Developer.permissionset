@@ -4,6 +4,10 @@
         <application>Work_Orders</application>
         <visible>true</visible>
     </applicationVisibilities>
+    <classAccesses>
+        <apexClass>WorkOrderHelper</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <description>Permission Set generated for access to custom object Work Order for the app Work Orders</description>
     <fieldPermissions>
         <editable>true</editable>
