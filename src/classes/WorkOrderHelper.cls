@@ -1,5 +1,6 @@
 public class WorkOrderHelper {
 
+<<<<<<< HEAD
     public static boolean isFirstRun = true; 
     private static Date dateToday = System.today();
 
@@ -43,6 +44,12 @@ public class WorkOrderHelper {
 
 
         isFirstRun = true;
+=======
+/*
+    use this method to complete the logic of the trigger
+*/
+    public static void updateWorkOrders(List<Work_Order__c> workOrders, Map<Id,Work_Order__c> oldWorkOrdersMap, boolean isBefore){
+>>>>>>> shell-classes
     }
 
 }
